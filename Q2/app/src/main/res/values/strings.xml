@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Lab 2 Q2</string>
+    <string name="name_hint">Name</string>
+    <string name="password_hint">Password</string>
+    <string name="telephone_hint">Telephone number (digits only)</string>
+    <string name="email_hint">Email address</string>
+    <string name="submit">Submit</string>
+    <string name="name_error">Enter a name using letters and spaces only.</string>
+    <string name="password_error">Enter a password.</string>
+    <string name="telephone_error">Enter a telephone number using digits only.</string>
+    <string name="email_error">Enter a valid email address.</string>
+    <string name="thank_you">Thank you %1$s, your request is being processed</string>
+    <string name="send_email">Send validation email</string>
+    <string name="code_hint">Validation code</string>
+    <string name="validate_account">Validate account</string>
+    <string name="email_subject">Account validation</string>
+    <string name="email_body">Your validation code is %1$d. Enter this code in the app to validate your account.</string>
+    <string name="code_error">Enter the correct code from the validation email.</string>
+    <string name="account_validated">Your account has been validated.</string>
+</resources>
